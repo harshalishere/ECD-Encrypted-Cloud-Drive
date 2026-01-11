@@ -23,8 +23,8 @@ ECD is a modern, privacy-focused cloud storage solution that prioritizes user se
 
 1.  **Clone the repo:**
     ```bash
-    git clone [https://github.com/yourusername/ECD-Secure-Cloud.git](https://github.com/yourusername/ECD-Secure-Cloud.git)
-    cd ECD-Secure-Cloud
+    git clone [https://github.com/harshalishere/ECD-Encrypted-Cloud-Drive.git](https://github.com/harshalishere/ECD-Encrypted-Cloud-Drive.git)
+    cd ECD-Encrypted-Cloud-Drive
     ```
 
 2.  **Backend Setup:**
