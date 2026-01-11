@@ -1,6 +1,6 @@
-# 🛡️ ECDDrive - Secure Cloud Storage
+# 🛡️ ECD(Encrypted Cloud Drive) - Secure Cloud Storage
 
-ECDDrive is a modern, privacy-focused cloud storage solution that prioritizes user security. Unlike traditional storage providers, ECDDrive employs a **Zero-Knowledge** architecture, meaning files are encrypted on your device *before* they ever touch our servers.
+ECD is a modern, privacy-focused cloud storage solution that prioritizes user security. Unlike traditional storage providers, ECDDrive employs a **Zero-Knowledge** architecture, meaning files are encrypted on your device *before* they ever touch our servers.
 
 ## 🚀 Key Features
 
@@ -42,4 +42,4 @@ ECDDrive is a modern, privacy-focused cloud storage solution that prioritizes us
     ```
 
 ---
-*Built with ❤️ by [Your Name]*
+*Built with ❤️ by Harshal*
