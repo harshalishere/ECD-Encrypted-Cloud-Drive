@@ -42,4 +42,4 @@ ECDDrive is a modern, privacy-focused cloud storage solution that prioritizes us
     ```
 
 ---
-*Built with ❤️ by [Your Name]*
+*Built with ❤️ by Harshal*
