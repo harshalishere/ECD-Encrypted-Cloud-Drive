@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --accent-color: #ffc636;
+  --accent-text: #1e293b;
+}
+
+/* THEME CLASSES */
+.theme-mustard { --accent-color: #ffc636; --accent-text: #1e293b; }
+.theme-ocean   { --accent-color: #3b82f6; --accent-text: #ffffff; }
+.theme-forest  { --accent-color: #10b981; --accent-text: #ffffff; }
+.theme-royal   { --accent-color: #8b5cf6; --accent-text: #ffffff; }
+.theme-sunset  { --accent-color: #f97316; --accent-text: #ffffff; }
+
+@layer utilities {
+  .bg-accent { background-color: var(--accent-color) !important; }
+  .text-accent { color: var(--accent-color) !important; }
+  .border-accent { border-color: var(--accent-color) !important; }
+  .ring-accent { --tw-ring-color: var(--accent-color) !important; }
+  
+  /* Force Override for "Mustard" classes */
+  .bg-architect-mustard { background-color: var(--accent-color) !important; color: var(--accent-text) !important; }
+  .text-architect-mustard { color: var(--accent-color) !important; }
+  .border-architect-mustard { border-color: var(--accent-color) !important; }
+}
+
+/* Scrollbar */
+.custom-scrollbar::-webkit-scrollbar { width: 6px; }
+.custom-scrollbar::-webkit-scrollbar-track { background: transparent; }
+.custom-scrollbar::-webkit-scrollbar-thumb { background-color: #94a3b8; border-radius: 20px; }
